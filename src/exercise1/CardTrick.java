@@ -54,7 +54,8 @@ public class CardTrick {
      * @author Annu Annu 2024
      */
     private static void printInfo() {
-    
+        
+        //I am done!
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
